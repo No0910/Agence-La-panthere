@@ -136,6 +136,17 @@ a:hover {
     color: rgba(255, 255, 255, .6);
 }
 
+.d-bloc p{
+    font-size: 13px;
+}
+
+.d-bloc p a{
+    font-size: 17px;
+    text-shadow: rgba(0, 0, 0, .05);
+}
+
+
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -231,7 +242,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -322,10 +333,24 @@ a:hover {
     z-index: 1;
 }
 
+.navbar-nav > li > a{
+    padding-top:0;
+    padding-bottom:0;
+    line-height: 25px;
+}
+
+
+
 .nav > li {
     float: left;
+    margin: 5px;
+    font-size: 18px;
+    color:#000000;
+}
+
+.nav ul > li > a {
+    float: left;
     margin-top: 4px;
-    font-size: 16px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -433,6 +458,15 @@ nav .caret {
     border-bottom-color: transparent;
     margin: 6px -5px 0 0!important;
     float: right;
+}
+
+.text-contrast {
+    text-shadow: 0 0 10px black;
+    color: #F3976C !important;
+}
+
+.text-color{
+    color: #000000;
 }
 
 .mg-md {
@@ -651,7 +685,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -687,7 +721,7 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: "Open Sans";    
 }
 
 .cta-hero {
@@ -775,7 +809,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C !important;
 }
 
 .btn-atomic-tangerine {
