@@ -72,6 +72,8 @@ a:hover {
     background-size: auto !important;
 }
 
+
+
 .bg-repeat {
     background: repeat;
 }
@@ -91,7 +93,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: #F3976C;
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -340,12 +342,6 @@ a:hover {
     background: transparent;
 }
 
-.navbar-nav>li>a:hover {
-    background: #f3976c;
-    border-radius: 20px;
-}
-
-
 
 .nav>li {
     float: left;
@@ -366,6 +362,10 @@ a:hover {
 .nav>li a:hover,
 .nav>li a:focus {
     background: transparent;
+}
+
+.nav a:hover{
+    color:#F3976C;
 }
 
 .navbar-toggle {
@@ -870,6 +870,10 @@ h4 {
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
+}
+
+.bg-banniere {
+    background-image: url("img/agence-la-panthere.jpg");
 }
 
 
