@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background:#F3976C ;
     background-size: 280px 280px;
 }
 
@@ -808,7 +808,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #F3976C;
 }
 
 .bgc-atomic-tangerine {
@@ -858,13 +858,6 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
 }
 
-.bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
-}
-
-.bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
-}
 
 @media (max-width: 1024px) {
     .bloc {
