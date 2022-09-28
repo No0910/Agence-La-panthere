@@ -31,7 +31,7 @@ a:hover {
     width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
+    padding: 0;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -46,6 +46,10 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+}
+
+.bloc-7-size {
+    padding: 40px 50px;
 }
 
 .bloc-md {
@@ -139,7 +143,7 @@ a:hover {
 }
 
 .d-bloc p {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .d-bloc p a {
@@ -249,7 +253,6 @@ a:hover {
 
 .d-bloc .panel .a-btn:hover,
 .l-bloc .a-btn:hover,
-.l-bloc .navbar a:hover,
 .l-bloc .navbar-brand:hover,
 .l-bloc a:hover .icon-sm,
 .l-bloc a:hover .icon-md,
@@ -361,12 +364,11 @@ a:hover {
 
 .nav>li a:hover,
 .nav>li a:focus {
-    background: transparent;
+    background-color: none;
+    color: #F3976C;
 }
 
-.nav a:hover{
-    color:#F3976C;
-}
+
 
 .navbar-toggle {
     margin: 10px 10px 0 0;
@@ -392,6 +394,33 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
+blockquote {
+    border-left: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 2.4rem;
+    width: 99%;
+}
+
+blockquote p {
+    font-size: 1.9rem;
+    font-style: italic;
+    letter-spacing: -0.2px;
+}
+
+span.citation_auteur {
+    font-size: 1.75rem;
+    color: rgb(90, 90, 90) !important;
+    font-style: italic;
+}
+
+.contrast {
+    color: white !important;
+    text-shadow: 0 0 3px #371f14;
+}
+
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -474,12 +503,7 @@ nav .caret {
 }
 
 .text-contrast {
-    text-shadow: 0 0 4px white;
-    color: black;
-}
-
-.text-color {
-    color: #000000;
+    text-shadow: 0 0 4px black;
 }
 
 .mg-md {
@@ -701,13 +725,19 @@ a {
     color: black;
 }
 
+.h2-contrast {
+    color: #f3976c;
+    text-shadow: 0 0 11px black;
+}
+
 h2 {
     margin: 0 auto;
-    width: 69%;
+    width: 80%;
     text-align: center;
     font-family: Helvetica, sans-serif;
     font-size: 24px;
-    line-height: 1.2em;
+    line-height: 1.4em;
+    padding-bottom: 40px;
 }
 
 .container {
@@ -733,13 +763,14 @@ h2 {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
 }
+
 
 .h1 {
     font-size: 20px;
@@ -748,16 +779,13 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF !important;
+    color: rgb(60, 60, 60) !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
 }
 
-#cta-hero {
-    background: black;
-}
 
 .social {
     max-width: 400px;
@@ -795,6 +823,15 @@ h4 {
     color: #FFFFFF !important;
 }
 
+.tc-white {
+    color: #F3976C !important;
+}
+
+.btn-atomic-tangerine {
+    background: #F3976C;
+    color: rgb(60, 60, 60) !important;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -830,16 +867,13 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
-    color: white;
-}
-
-.btn-atomic-tangerine {
-    color: #FFFFFF !important;
+.tc-white-bloc-5{
+    text-shadow: 0 0 10px black;
+    color: #fff !important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956 !important;
+    background: #b1572e !important;
     color: #FFFFFF !important;
 }
 
@@ -874,6 +908,28 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
+}
+
+.h2-formulaire {
+    width: 100%;
+    text-align: start;
+    margin-bottom: 25px;
+    color: #f3976c;
+    font-weight: bold;
+}
+
+address {
+    text-align: center;
+}
+
+address:hover {
+    cursor: pointer;
+    color: black;
+}
+
+input:focus,
+textarea:focus {
+    border: 2px solid rgb(255, 134, 47) !important;
 }
 
 
@@ -1138,25 +1194,6 @@ h4 {
         margin: auto;
     }
 
-    blockquote {
-        border-left: none;
-        margin-bottom: 0;
-        padding-bottom: 0;
-        line-height: 2.4rem;
-        width: 99%;
-    }
-
-    blockquote p {
-        font-size: 1.9rem;
-        font-style: italic;
-        letter-spacing: -0.2px;
-    }
-
-    span.citation_auteur {
-        font-size: 1.75rem;
-        color: rgb(90, 90, 90) !important;
-        font-style: italic;
-    }
 
 }
 
