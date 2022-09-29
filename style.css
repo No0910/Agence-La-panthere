@@ -101,6 +101,7 @@ a:hover {
     background-size: 280px 280px;
 }
 
+
 .b-parallax {
     background-attachment: fixed;
 }
@@ -821,6 +822,7 @@ h4 {
 
 .white {
     color: #FFFFFF !important;
+    text-shadow: 0 0 2px black;
 }
 
 .tc-white {
@@ -841,6 +843,10 @@ h4 {
     margin-top: 50px;
 }
 
+.bg-presentation {
+    background-image: url("img/image-de-presentation.jpg");
+  }
+
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -860,7 +866,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #F3976C;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
