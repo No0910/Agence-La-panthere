@@ -96,9 +96,11 @@
 				<h2 class="h2-formulaire">Formulaire de contact</h2>
 				<div class="row">
 					<div class="col-sm-6" id="formulaire_de_contact">
-						<form id="form_1" novalidate success-msg="Your message has been sent."
-							fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
-			
+						<form id="form_1" novalidate>
+
+							<!-- success-msg="Your message has been sent."
+							fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!" -->
+
 							<div class="form-group">
 								<label for="name">
 									Nom
@@ -112,10 +114,10 @@
 								<input id="email" class="form-control" type="email" required />
 							</div>
 							<div class="form-group">
-								<label for="form-control">
+								<label for="input_504">
 									Comment nous avez-vous connu ?
 								</label>
-								<input id="form-control" class="form-control" type="email" required id="input_504" />
+								<input id="input_504" class="form-control" type="email" required />
 							</div>
 							<div class="form-group">
 								<label for="message">
@@ -147,33 +149,42 @@
 		<!-- ScrollToTop Button END-->
 
 
+
 		<!-- Footer - bloc-8 -->
-		<div class="bloc bgc-atomic-tangerine d-bloc" id="bloc-8">
+		<div class="bloc bgc-atomic-tangerine d-bloc" id="Footer">
 			<div class="container bloc-sm">
 				<div class="row">
 					<div class="col-sm-12">
 						<p class="text-center">
-							Agence La Panthère - Agence web basée à Lyon.<br>
+							Agence La Panthère - Agence web basée à Lyon<br>
 						</p>
 						<div class="row row-no-gutters social">
 							<div class="col-sm-3">
 								<div class="text-center">
-									<span class="fa fa-twitter icon-md"></span></a>
+									<a id="twitter" class="social icon-social" href="https://twitter.com/"
+										aria-label="logo-twitter">
+										<span class="fa fa-twitter icon-md"></span></a>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="text-center">
-									<span class="fa fa-facebook icon-md"></span></a>
+									<a id="facebook" class="social icon-social" href="https://fr-fr.facebook.com/"
+										aria-label="logo-facebook">
+										<span class="fa fa-facebook icon-md"></span></a>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="text-center">
-									<span class="fa fa-dribbble icon-md"></span></a>
+									<a id="dribbble" class="social icon-social" href="https://dribbble.com/"
+										aria-label="logo-dribbble">
+										<span class="fa fa-dribbble icon-md"></span></a>
 								</div>
 							</div>
 							<div class="col-sm-3">
 								<div class="text-center">
-									<span class="fa fa-instagram icon-md"></span></a>
+									<a id="Instagram" class="social icon-social" href="https://www.instagram.com/"
+										aria-label="logo-instagram">
+										<span class="fa fa-instagram icon-md"></span></a>
 								</div>
 							</div>
 						</div>
