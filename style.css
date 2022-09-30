@@ -779,7 +779,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: rgb(60, 60, 60) !important;
+    color: rgba(0, 0, 0, 1) !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -829,8 +829,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: rgb(60, 60, 60) !important;
+    background:#EC804E;
 }
 
 .portfolio-thumb {
