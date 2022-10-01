@@ -202,7 +202,7 @@ a:hover {
 }
 
 .d-bloc .panel .a-btn:hover {
-    color: rgba(0, 0, 0, 1);
+    color: #4d4d4d;
 }
 
 .d-bloc .panel .btn-wire,
@@ -733,7 +733,7 @@ a {
 
 h2 {
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
     text-align: center;
     font-family: Helvetica, sans-serif;
     font-size: 24px;
