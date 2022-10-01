@@ -411,7 +411,7 @@ blockquote p {
 
 span.citation_auteur {
     font-size: 1.75rem;
-    color: rgb(90, 90, 90) !important;
+    color: #545454 !important;
     font-style: italic;
 }
 
@@ -419,6 +419,7 @@ span.citation_auteur {
     color: rgb(0, 0, 0)!important;
     text-shadow: 0 0 3px white;
 }
+
 
 
 
@@ -850,7 +851,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color:rgb(75 59 15 / 70%);
     padding: 40px 40px 40px 40px;
 }
 
@@ -864,7 +865,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #0a1742;
 }
 
 .bgc-atomic-tangerine {
