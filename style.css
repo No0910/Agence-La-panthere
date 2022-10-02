@@ -1107,7 +1107,7 @@ textarea:focus {
         padding-left: 0;
         padding-right: 0;
     }
-
+    
     .bloc-xxl,
     .bloc-xl,
     .bloc-lg {
@@ -1199,10 +1199,7 @@ textarea:focus {
 }
 
 @media (max-width: 400px) {
-    .bloc {
-        padding-left: 0;
-        padding-right: 0;
-    }
+  
 }
 
 @media (max-width: 767px) {
