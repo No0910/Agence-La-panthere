@@ -509,7 +509,7 @@ nav .caret {
 }
 
 .btn {
-    margin: 0 5px 5px 0;
+    margin: 5px 5px 5px 5px;
 }
 
 .btn.pull-right {
@@ -771,7 +771,7 @@ p {
     margin-top: 22px;
     color: rgba(0, 0, 0, 1) !important;
     text-transform: uppercase;
-    padding: 12px 28px 12px 28px;
+    padding: 5px 10px;
     font-size: 16px;
     font-weight: 700;
 }
@@ -938,9 +938,9 @@ textarea:focus {
 
 @media (max-width: 1024px) {
     .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
+        padding-left: 0;
+        padding-right: 0;
+      }
 
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
@@ -1103,10 +1103,7 @@ textarea:focus {
         margin-left: 10px;
     }
 
-    .bloc {
-        padding-left: 0;
-        padding-right: 0;
-    }
+ 
     
     .bloc-xxl,
     .bloc-xl,
