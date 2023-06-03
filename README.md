@@ -1,4 +1,4 @@
-# Agence-La-panthere
+# Agence Design Web "La panthère"
 
 ##Projet 4 d'Openclassrooms - Optimisez un site web existant
 
