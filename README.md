@@ -44,6 +44,7 @@
 
 ## Mobile
 L'optimisation a également été faite sur mobile. Exemple ci dessous du résultat d'une optimisation au niveau de la barre de navigation:
+![Page mobile optimisation](https://github.com/No0910/Agence-La-panthere/assets/98163578/3b190a27-46b5-42ff-9eaa-77f4dd0ccf68)
 
 ## Compatibilité
 - Développement en mobile-first à partir des maquettes fournies
