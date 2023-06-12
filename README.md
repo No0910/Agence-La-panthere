@@ -42,6 +42,9 @@
 - Wave Contrast ![Wave Contrast](https://github.com/No0910/Agence-La-panthere/assets/98163578/9e289a0e-abc6-4f32-9b58-29212fc05c28)
 - Validator HTML et CSS W3C
 
+## Mobile
+L'optimisation a également été faite sur mobile. Exemple ci dessous du résultat d'une optimisation au niveau de la barre de navigation:
+
 ## Compatibilité
 - Développement en mobile-first à partir des maquettes fournies
 - Adapatation tablette et desktop libre (supports non prioritaires)
