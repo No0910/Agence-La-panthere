@@ -36,7 +36,7 @@
 - [VScode] - Editeur de code
 - [FontAwesome] - Bibliothèque d'icônes
 - [GoogleFonts] - Bibliothèque de polices
-- Lighthouse ![Lighthouse_site_origine_desktop](https://github.com/No0910/Agence-La-panthere/assets/98163578/cd7703c1-4d09-4d29-80a3-c46864a190d0)
+- Lighthouse ![Projet IV Rapport d'optimisation](https://github.com/No0910/Agence-La-panthere/assets/98163578/14f215de-49b0-4a03-945b-64cc162a65c3)
 - Page Speed Insight
 - Wave Contrast
 - GT metrix
