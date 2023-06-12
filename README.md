@@ -56,7 +56,7 @@ L'optimisation a également été faite sur mobile. Exemple ci dessous du résul
 ---
 Une version en ligne est directement accessible à l'adresse : [https://nd-la-panthere-agence-web-design.netlify.app/]
 
-Sinon, vous pouvez cloner le projet
+Sinon, vous pouvez cloner le projet (site optimisé)
 ```terminal
 git clone https://github.com/No0910/Agence-La-panthere.git
 ```
