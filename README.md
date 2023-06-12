@@ -38,8 +38,8 @@
 - [GoogleFonts] - Bibliothèque de polices
 - Lighthouse ![Projet IV Rapport d'optimisation](https://github.com/No0910/Agence-La-panthere/assets/98163578/14f215de-49b0-4a03-945b-64cc162a65c3)
 - Page Speed Insight ![Page Speed Insight Desktop](https://github.com/No0910/Agence-La-panthere/assets/98163578/f1d24787-5807-4cc9-8eef-9d63b9f1e2f0)
-- Wave Contrast
-- GT metrix
+- Wave Contrast 
+- GT metrix ![GTmetrix Desktop](https://github.com/No0910/Agence-La-panthere/assets/98163578/38acf79e-17bc-4bb7-b0dc-b5e310b3027e)
 - Validator HTML et CSS W3C
 
 ## Compatibilité
