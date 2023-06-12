@@ -60,3 +60,6 @@ Sinon, vous pouvez cloner le projet (site optimisé)
 ```terminal
 git clone https://github.com/No0910/Agence-La-panthere.git
 ```
+## Auteur
+---
+Nolwenn DUHAMEL
