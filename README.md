@@ -13,7 +13,7 @@
 ---
 - Améliorer le référencement du site "La panthère" qui n'apparaît qu'en deuxième page des moteurs de recherche lorsqu'on écrit "Entreprise web design Lyon”.
 - Améliorer le SEO & l'accessibilité du site.
-- 
+
 ## Livrables attendus
 ---
 - Un document PDF du rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations (minimum) sélectionnées ;
@@ -21,21 +21,13 @@
 - Un document PDF du rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
 ### Objectifs
-
+---
 - Réaliser une recherche des bonnes pratiques en développement web
 - Écrire un code HTML et CSS maintenable
 - Optimiser la taille et la vitesse du site web
 - Assurer l'accessibilité du site web
 - Optimiser le référencement du site web
 - Optimiser la vitesse et la taille du site web
-
-### Ajout d'effets graphiques et d'animations
-
-**Boutons**
-
-**Page d’accueil**
-
-**Pages de menu**
 
 ## Technologies utilisées
 ---
@@ -45,6 +37,7 @@
 - [FontAwesome] - Bibliothèque d'icônes
 - [GoogleFonts] - Bibliothèque de polices
 - Lighthouse
+
 - Page Speed Insight
 - Wave Contrast
 - GT metrix
