@@ -54,7 +54,7 @@ L'optimisation a également été faite sur mobile. Exemple ci dessous du résul
 
 ## Installation
 ---
-Une version en ligne est directement accessible à l'adresse : [https://nd-la-panthere-agence-web-design.netlify.app/]
+Une version en ligne est directement accessible à l'adresse : [Agence La Panthère](https://nd-la-panthere-agence-web-design.netlify.app/)
 
 Sinon, vous pouvez cloner le projet (site optimisé)
 ```terminal
